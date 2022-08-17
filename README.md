@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Timbol</h1>
 <h3 align="center">A passionate frontend developer from San Diego, CA. </h3>
 
--  👨‍💻 Recently graduated from CSU San Marcos(June 2022).
+-  👨‍💻 Recently graduated from CSU San Marcos (June 2022).
 
 - 🔭 I’m currently working on **my portfolio site and turning it into a dev blog**
 
