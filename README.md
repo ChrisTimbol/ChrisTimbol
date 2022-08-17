@@ -3,7 +3,7 @@
 
 -  👨‍💻 Recently graduated from CSU San Marcos.
 
-- 🔭 I’m currently working on **my portfolio and turning it into a dev blog**
+- 🔭 I’m currently working on **my portfolio site and turning it into a dev blog**
 
 - 🌱 I’m currently learning **Node.js and web scraping data with playwright.**
 
