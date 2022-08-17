@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Timbol</h1>
-<h3 align="center">A passionate frontend developer from San Diego, CA. Recently graduated from CSU San Marcos and have been working on front end projects ever since.</h3>
+<h3 align="center">A passionate frontend developer from San Diego, CA. </h3>
+
+-  👨‍💻 Recently graduated from CSU San Marcos and have been working on front end projects ever since.
 
 - 🔭 I’m currently working on **my portfolio and turning it into a dev blog**
 
@@ -8,6 +10,7 @@
 - 💬 Ask me about **React**
 
 - ⚡ Fun fact **I was pro at fortnite.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
