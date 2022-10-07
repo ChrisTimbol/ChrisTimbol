@@ -3,13 +3,13 @@
 
 -  👨‍💻 Recently graduated from CSU San Marcos (June 2022).
 
-- 🔭 I’m currently working on **my portfolio site and turning it into a dev blog**
+- 🔭 I’m currently working on **my dev blog, and building games in unity**
 
-- 🌱 I’m currently learning **Node.js and web scraping data with playwright.**
+- 🌱 I’m currently learning **hypercasual games in unity**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **unity or react**
 
-- ⚡ Fun fact **I was pro at fortnite.**
+- ⚡ Fun fact **I use to play fortnite at a pro lvl**
 
 
 <h3 align="left">Connect with me:</h3>
