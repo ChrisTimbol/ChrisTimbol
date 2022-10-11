@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my dev blog, and building games in unity**
 
-- 🌱 I’m currently learning **hypercasual games in unity**
+- 🌱 I’m currently learning unity and nextjs
 
 - 💬 Ask me about **unity or react**
 
