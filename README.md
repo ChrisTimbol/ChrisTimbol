@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **unity or react**
 
-- ⚡ Fun fact **I use to play fortnite at a pro lvl**
 
 
 <h3 align="left">Connect with me:</h3>
