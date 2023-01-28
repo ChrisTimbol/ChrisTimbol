@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning unity and nextjs
 
-- 💬 Ask me about **unity or react**
+- 💬 Ask me about **react**
 
 
 
