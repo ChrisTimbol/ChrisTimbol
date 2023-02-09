@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- :page_with_curl:[Resume](https://github.com/ChrisTimbol/ChrisTimbol/files/10691165/ChrisTimbolResume.pdf)
+- :page_with_curl: [Resume](https://github.com/ChrisTimbol/ChrisTimbol/files/10691165/ChrisTimbolResume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
