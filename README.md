@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my dev blog, and building games in unity**
 
-- 🌱 I’m currently learning unity and nextjs
+- 🌱 I’m currently learning about backend, websockets/socketio
 
 - 💬 Ask me about **react**
 
