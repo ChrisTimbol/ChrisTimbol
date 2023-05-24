@@ -3,12 +3,7 @@
 
 -  👨‍💻 Recently graduated from CSU San Marcos (June 2022).
 
-- 🔭 I’m currently working on **my dev blog, and building games in unity**
-
-- 🌱 I’m currently learning about backend, websockets/socketio
-
-- 💬 Ask me about **react**
-
+- 🔭 I’m currently working on **mastering wordpress theme development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
