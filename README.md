@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Timbol</h1>
 <h3 align="center">A passionate Web Developer from San Diego, CA. </h3>
 
--  👨‍💻 Recently graduated from CSU San Marcos (June 2022).
+-  👨‍💻 CSUSM Alumni 22
 
 - 🔭 I’m currently working on **mastering wordpress theme development**
 
